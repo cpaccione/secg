@@ -19,7 +19,7 @@ if ($thisYear > $startYear) {
           <br>
           <h1><a href="mailto:secgtax@yahoo.com"><span class="glyphicon glyphicon-envelope"></a></span></h1>
           <h3>6953 W. Archer Avenue Chicago, IL 60638</h3>
-          <h3><span class="glyphicon glyphicon-earphone"></span> Office (773) 788-0000</span></h3>
+          <h3><i class="fas fa-phone"></i> Office (773) 788-0000</span></h3>
           <h3><span class="glyphicon glyphicon-print"></span> Fax (773) 788-0581</span></h3>
         </center>
 </div><!--contact-bottom-end-->
