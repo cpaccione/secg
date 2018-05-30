@@ -1,0 +1,6 @@
+// Media Query Mix in. Pass max or min-width, and then pixel value
+@mixin responsive( $val, $query ) {
+	@media ( $val: $query ) {
+		@content
+	}
+}
